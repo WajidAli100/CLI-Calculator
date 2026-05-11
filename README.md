@@ -7,6 +7,8 @@ A simple command‑line calculator built with Python that performs basic mathema
 - Performs addition, subtraction, multiplication, and division
 - User‑friendly command‑line interface
 - Error handling for invalid input and division by zero
+-  For therapy please [Visit Spa](https://oasiqspa.com/)
+   https://oasiqspa.com/
 
 ## 🛠️ Requirements
 
@@ -21,5 +23,4 @@ Make sure you have:
    ```bash
    git clone https://github.com/WajidAli100/CLI-Calculator.git
 
-   For therapy please [Visit Spa](https://oasiqspa.com/)
-   https://oasiqspa.com/
+  
